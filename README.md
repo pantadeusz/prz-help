@@ -4,7 +4,7 @@ Ten dokument będzie się rozwijał
 
 Bibliografia
  * Co najmniej kilka pozycji książkowych
- * styl podobny do jednego z [Bibtex_bibliography_styles](https://www.overleaf.com/learn/latex/Bibtex bibliography styles)
+ * styl podobny do jednego z [Bibtex_bibliography_styles](https://www.overleaf.com/learn/latex/Bibtex%20bibliography%20styles)
  * Wszystko co nie jest wytworem myśli i pracy autorów powinno być w jakimś stopniu umieszczone w kontekście obecnej wiedzy poprzez odniesienie do literatury
 
 Elementy
