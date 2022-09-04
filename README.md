@@ -8,9 +8,14 @@ Bibliografia
  * Wszystko co nie jest wytworem myśli i pracy autorów powinno być w jakimś stopniu umieszczone w kontekście obecnej wiedzy poprzez odniesienie do literatury
 
 Elementy
- * Opisanie problemu jaki starają się twórcy rozwiązać
+
+* Opisanie problemu jaki starają się twórcy rozwiązać
  * Diagram przypadków użycia. Zobacz [Materiały do PRI](https://edu.pjwstk.edu.pl/wyklady/pri/scb/index115.html)
  * Zbiór wymagań w tabelkach. Zawsze opisać jakie są kryteria akceptacji
  * Weryfikacja wymagań. Można to zrobić na kilka sposobów:
      * Poprzez testy manualne przy okazji przyrostów
      * Poprzez opisanie w jaki sposób są wymagania spełnione
+
+Przypadki użycia
+* [Przypadki użycia](https://it-consulting.pl/2017/06/04/ile-przypadkow-uzycia)
+* [Ile przypadków użycia](https://it-consulting.pl/2017/06/04/ile-przypadkow-uzycia) 
